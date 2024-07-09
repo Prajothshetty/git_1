@@ -1,9 +1,9 @@
 # git_1
 EXPERIMENT 1
+git init
 git clone repolink 
 cd reponame 
-code . 
-gitadd .
+git add .
 git commit -m "message" 
 git push
 
